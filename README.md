@@ -13,6 +13,8 @@ This is a simple application for writing and saving note. It uses an Express.js 
 
 #### Demo
 
+https://user-images.githubusercontent.com/71200950/149613612-f01b83a0-cdd1-4a61-a6c8-26545becdc74.mp4
+
 #### Mock-Up:
 ![mock-up](https://user-images.githubusercontent.com/71200950/149504626-4eca17be-28c9-4ee1-b1c4-c61c4b830e69.png)
 
@@ -20,6 +22,12 @@ This is a simple application for writing and saving note. It uses an Express.js 
 #### Live Implementation
 
 * [x] [note-taker-pro-2022]
+
+![note-taker-pro-2022-home](https://user-images.githubusercontent.com/71200950/149613586-9d56eefe-8046-4dd1-be4a-d94e9a027a4f.png)
+
+
+![note-taker-pro-2022-note](https://user-images.githubusercontent.com/71200950/149613594-68494a0f-4383-4030-a02d-03ddc56ac92c.png)
+
 
 ### User Story
 > AS A small business owner           
